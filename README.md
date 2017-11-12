@@ -1,4 +1,9 @@
-<<<<<<< HEAD
+Summary: 
+To run this server: npm install, npm start
+live heroku deployed: https://dashboard.heroku.com/apps/tracker10
+to add more components: src/components/
+please check out existing components
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
@@ -2228,6 +2233,4 @@ In the future, we might start automatically compiling incompatible third-party m
 ## Something Missing?
 
 If you have ideas for more “How To” recipes that should be on this page, [let us know](https://github.com/facebookincubator/create-react-app/issues) or [contribute some!](https://github.com/facebookincubator/create-react-app/edit/master/packages/react-scripts/template/README.md)
-=======
 # Trakr
->>>>>>> da37dbff4771c1f3d7f45e39b9b306dbf3768410
